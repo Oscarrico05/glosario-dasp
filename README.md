@@ -13,10 +13,15 @@ Glosario para el módulo de DASP
 -
 
 # C
+### CIO (Chief Information Officer):
+El CIO es el responsable de la estrategia tecnológica global de la empresa. Este rol implica la planificación estratégica de cómo la IT puede apoyar y mejorar los objetivos empresariales, la gestión del presupuesto de TI, y la supervisión de la implementación y mantenimiento de las tecnologías y sistemas de información. El CIO también juega un papel crucial en la transformación digital, liderando la integración de nuevas tecnologías y asegurando que la infraestructura IT sea segura y eficiente.
 
 -
 
 # D
+
+### Digitacización:
+Es el proceso de convertir información analógica en digital. Es decir, cualquier cosa que pueda ser representada en forma de datos. 
 
 -
 
@@ -37,6 +42,18 @@ Glosario para el módulo de DASP
 -
 
 # I
+### IT:
+Es la aplicación de ordenadores y equipos de telecomunicación para almacenar, recuperar, transmitir y manipular datos.
+
+*Objetivos*
+
+1. Gestión de Datos e Información: IT se enfoca en la recolección, almacenamiento, procesamiento y seguridad de los datos e información corporativa, facilitando el acceso y la distribución de información dentro y fuera de la organización.
+
+2. Soporte a la Toma de Decisiones: Mediante el análisis de datos, IT proporciona insights que apoyan la toma de decisiones estratégicas, operativas y financieras.
+
+3. Comunicación y Colaboración: IT desarrolla y mantiene infraestructuras de comunicación que permiten la colaboración eficiente entre empleados, departamentos y con socios externos.
+
+4. Innovación y Desarrollo de Nuevas Tecnologías: IT investiga y adopta nuevas tecnologías digitales para impulsar la innovación y mejorar los procesos y servicios empresariales.
 
 -
 
@@ -62,6 +79,19 @@ Glosario para el módulo de DASP
 
 # O 
 
+### OT:
+Es el uso de hardware y software para monitorear y controlar los procesos físicos, los dispositivos y la infraestructura
+
+*Objetivos:*
+1. Control y Automatización de Procesos: OT se centra en el uso de tecnología para supervisar y controlar dispositivos físicos y procesos operativos, buscando optimizar la eficiencia y productividad.
+
+2. Seguridad y Fiabilidad Operacional: OT prioriza la seguridad y la fiabilidad de los sistemas de control y la infraestructura operativa para asegurar la continuidad de la producción y operaciones.
+
+3. Mantenimiento y Gestión de Activos: A través de la monitorización en tiempo real, OT gestiona el mantenimiento de la maquinaria y los activos físicos, minimizando el tiempo de inactividad y extendiendo la vida útil de los equipos.
+
+4. Eficiencia Energética y Sostenibilidad: OT implementa soluciones para mejorar la eficiencia energética y promover prácticas de operación sostenibles en el entorno de producción.
+
+
 -
 
 # P 
@@ -82,6 +112,8 @@ Glosario para el módulo de DASP
 
 # T
 
+##  Tecnología de operación:
+    Es aquella que se basa en la mejora de métodos que generan el mismo resultado, pero de una forma más eficiente
 -
 
 # U
