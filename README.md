@@ -19,12 +19,18 @@ Es una estructura matemática para almacenar datos de una manera que es casi imp
 ### CIO (Chief Information Officer):
 El CIO es el responsable de la estrategia tecnológica global de la empresa. Este rol implica la planificación estratégica de cómo la IT puede apoyar y mejorar los objetivos empresariales, la gestión del presupuesto de TI, y la supervisión de la implementación y mantenimiento de las tecnologías y sistemas de información. El CIO también juega un papel crucial en la transformación digital, liderando la integración de nuevas tecnologías y asegurando que la infraestructura IT sea segura y eficiente.
 
+### CDN (Content Delivery Network):
+es una red superpuesta de computadoras que contienen copias de datos, colocados en varios puntos de una red con el fin de maximizar el ancho de banda para el acceso a los datos de clientes por la red
+
 -
 
 # D
 
 ### Digitacización:
 Es el proceso de convertir información analógica en digital. Es decir, cualquier cosa que pueda ser representada en forma de datos. 
+
+### DDoS:
+Un ataque de denegación de servicio, llamado también ataque DoS, es un ataque a un sistema de computadoras o red que causa que un servicio o recurso sea inaccesible a los usuarios legítimos.​ Normalmente provoca la pérdida de la conectividad con la red por el consumo del ancho de banda de la red de la víctima o sobrecarga de los recursos computacionales del sistema atacado.
 
 -
 
@@ -57,6 +63,10 @@ Es la aplicación de ordenadores y equipos de telecomunicación para almacenar, 
 3. Comunicación y Colaboración: IT desarrolla y mantiene infraestructuras de comunicación que permiten la colaboración eficiente entre empleados, departamentos y con socios externos.
 
 4. Innovación y Desarrollo de Nuevas Tecnologías: IT investiga y adopta nuevas tecnologías digitales para impulsar la innovación y mejorar los procesos y servicios empresariales.
+
+### IaaS ( Infraestructure as a Server)
+Es un modelo de cloud computing que ofrece acceso bajo demanda a recursos de computación, como servidores, almacenamiento, redes y virtualización.
+
 
 -
 
@@ -99,6 +109,9 @@ Es el uso de hardware y software para monitorear y controlar los procesos físic
 
 # P 
 
+### PaaS (Platform as a Service):
+Es un entorno de desarrollo e implementación completo en la nube, con recursos que permiten entregar todo, desde aplicaciones sencillas basadas en la nube hasta aplicaciones empresariales sofisticadas habilitadas para la nube.
+
 -
 
 # Q 
@@ -113,6 +126,13 @@ Es el uso de hardware y software para monitorear y controlar los procesos físic
 
 ### Sistema de planificación de Recursos Empresariales (SAP)
 Es un sistema de software que incluye todas las herramientas y procesos necesarios para dirigir una empresa exitosa, incluidos RR. HH., fabricación, cadena de suministro, finanzas, contabilidad y más.
+
+### Serverless:
+Es un modelo de ejecución de computación en la nube en el que el proveedor de los servicios en la nube destina por demanda recursos de las máquinas virtuales.
+
+### SaaS (Software as a Service):
+Es un modelo de distribución de software donde el soporte lógico y los respectivos datos que maneja se alojan en los servidores de un proveedor, cuyo acceso es a través de Internet. El proveedor no solo proporciona el hardware, sino también el software correspondiente.
+
 
 -
 
