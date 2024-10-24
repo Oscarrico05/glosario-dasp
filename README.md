@@ -10,6 +10,9 @@ Glosario para el módulo de DASP
 
 # B
 
+## Bockchain
+Es una estructura matemática para almacenar datos de una manera que es casi imposible de falsificar
+
 -
 
 # C
@@ -108,12 +111,16 @@ Es el uso de hardware y software para monitorear y controlar los procesos físic
 
 # S
 
+### Sistema de planificación de Recursos Empresariales (SAP)
+Es un sistema de software que incluye todas las herramientas y procesos necesarios para dirigir una empresa exitosa, incluidos RR. HH., fabricación, cadena de suministro, finanzas, contabilidad y más.
+
 -
 
 # T
 
-##  Tecnología de operación:
-    Es aquella que se basa en la mejora de métodos que generan el mismo resultado, pero de una forma más eficiente
+### Tecnología de operación:
+Es aquella que se basa en la mejora de métodos que generar el mismo resultado, pero de una forma más eficiente
+
 -
 
 # U
