@@ -10,8 +10,8 @@ Glosario para el módulo de DASP
 
 # B
 
-## Bockchain
-Es una estructura matemática para almacenar datos de una manera que es casi imposible de falsificar
+### Blockchain
+Es una estructura matemática para almacenar datos de una manera que es casi imposible de falsificar.
 
 -
 
@@ -20,7 +20,10 @@ Es una estructura matemática para almacenar datos de una manera que es casi imp
 El CIO es el responsable de la estrategia tecnológica global de la empresa. Este rol implica la planificación estratégica de cómo la IT puede apoyar y mejorar los objetivos empresariales, la gestión del presupuesto de TI, y la supervisión de la implementación y mantenimiento de las tecnologías y sistemas de información. El CIO también juega un papel crucial en la transformación digital, liderando la integración de nuevas tecnologías y asegurando que la infraestructura IT sea segura y eficiente.
 
 ### CDN (Content Delivery Network):
-es una red superpuesta de computadoras que contienen copias de datos, colocados en varios puntos de una red con el fin de maximizar el ancho de banda para el acceso a los datos de clientes por la red
+es una red superpuesta de computadoras que contienen copias de datos, colocados en varios puntos de una red con el fin de maximizar el ancho de banda para el acceso a los datos de clientes por la red.
+
+### Cloud computing: 
+Es la disponibilidad de recursos de computación bajo demanda como servicios a través de Internet.
 
 -
 
@@ -47,6 +50,8 @@ Un ataque de denegación de servicio, llamado también ataque DoS, es un ataque 
 -
 
 # H
+### Hosting: 
+Es el servicio que se provee a los usuarios de Internet un espacio de almacenamiento en línea, también conocido como webspace, que permite publicar todo el contenido relacionado con un sitio web.
 
 -
 
@@ -93,7 +98,7 @@ Es un modelo de cloud computing que ofrece acceso bajo demanda a recursos de com
 # O 
 
 ### OT:
-Es el uso de hardware y software para monitorear y controlar los procesos físicos, los dispositivos y la infraestructura
+Es el uso de hardware y software para monitorear y controlar los procesos físicos, los dispositivos y la infraestructura.
 
 *Objetivos:*
 1. Control y Automatización de Procesos: OT se centra en el uso de tecnología para supervisar y controlar dispositivos físicos y procesos operativos, buscando optimizar la eficiencia y productividad.
@@ -139,7 +144,7 @@ Es un modelo de distribución de software donde el soporte lógico y los respect
 # T
 
 ### Tecnología de operación:
-Es aquella que se basa en la mejora de métodos que generar el mismo resultado, pero de una forma más eficiente
+Es aquella que se basa en la mejora de métodos que generar el mismo resultado, pero de una forma más eficiente.
 
 -
 
