@@ -59,6 +59,12 @@ EC2 (Elastic Cloud Computing) Permite a los usuarios alquilar máquinas virtuale
 ### Hosting: 
 Es el servicio que se provee a los usuarios de Internet un espacio de almacenamiento en línea, también conocido como webspace, que permite publicar todo el contenido relacionado con un sitio web.
 
+### HTTPS:
+ Es un protocolo que cifra la comunicación entre un navegador web y un sitio web, proporcionando una conexión segura.
+
+ ### HTTP
+ Es un protocolo de la capa de aplicación para la transmisión de documentos hipermedia sin cifrar.
+
 -
 
 # I
