@@ -6,6 +6,9 @@ Glosario para el módulo de DASP
 
 # A
 
+### AWS
+Amazon Web Service es una colección de servicios de computación en la nube que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com. 
+
 -
 
 # B
@@ -38,6 +41,9 @@ Un ataque de denegación de servicio, llamado también ataque DoS, es un ataque 
 -
 
 # E
+
+### EC2
+EC2 (Elastic Cloud Computing) Permite a los usuarios alquilar máquinas virtuales en las cuales se pueden ejecutar aplicaciones
 
 -
 
